@@ -9,3 +9,4 @@ premier commit dans la branche 'premiere_branch'
 apprendre à faire une pull request
 
 test du merge conflict 1
+test du merge conflict 2
